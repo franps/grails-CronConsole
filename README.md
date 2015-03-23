@@ -1,5 +1,4 @@
-# grails-CronConsole <img src="https://travis-ci.org/ricardoul/grails-CronConsole.svg?branch=master">
-
+# grails-CronConsole 
 
 Mix of Grails console and quartz.
 
