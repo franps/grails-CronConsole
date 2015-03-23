@@ -6,7 +6,7 @@ Author
 <a href="https://github.com/ricardoul"><b>Ricardo Umpierrez</b></a>
 
 Credits:
-  <a href="https://github.com/joaquinfernandez131">joaquinfernandez131</a> (some AngularJS code)
+  <a href="https://github.com/joaquinfernandez131">joaquinfernandez131</a> (some AngularJS code of the httpService)
 
 
   Base plugin:
